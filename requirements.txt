@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+boto3
+sagemaker
+osfrom
+datetime
+json
